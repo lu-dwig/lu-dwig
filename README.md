@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Ludwig Murimi! 👋
 
 <!--
 **lu-dwig/lu-dwig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
