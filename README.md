@@ -1,8 +1,8 @@
-### Hi there, I'm Ludwig Murimi! 👋
+# Hi there, I'm Ludwig Murimi! 👋
 
-<img align="left" src="(https://github-readme-stats.vercel.app/api?username=lu-dwig&show_icons=true&theme=radical)" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=lu-dwig&show_icons=true&theme=radical" />
 
-<img align="left" width="47%" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=lu-dwig&layout=compact)" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lu-dwig&layout=compact" />
 
 
 <!--
